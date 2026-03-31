@@ -1,0 +1,11 @@
+{
+  "name": "color-diff-napi",
+  "version": "0.0.0-local",
+  "private": true,
+  "type": "module",
+  "main": "./index.ts",
+  "module": "./index.ts",
+  "exports": {
+    ".": "./index.ts"
+  }
+}

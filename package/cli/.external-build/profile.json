@@ -1,0 +1,32 @@
+{
+  "featureProfile": {
+    "BRIDGE_MODE": true,
+    "COORDINATOR_MODE": true,
+    "KAIROS_BRIEF": true,
+    "TRANSCRIPT_CLASSIFIER": true,
+    "VOICE_MODE": true,
+    "DAEMON": false,
+    "DIRECT_CONNECT": false,
+    "FORK_SUBAGENT": false,
+    "KAIROS": false,
+    "PROACTIVE": false,
+    "SSH_REMOTE": false,
+    "TORCH": false,
+    "UDS_INBOX": false,
+    "ULTRAPLAN": false,
+    "WORKFLOW_SCRIPTS": false
+  },
+  "envProfile": {
+    "USER_TYPE": "external",
+    "IS_DEMO": ""
+  },
+  "macros": {
+    "ISSUES_EXPLAINER": "report the issue at https://github.com/anthropics/claude-code/issues",
+    "PACKAGE_URL": "@anthropic-ai/claude-code",
+    "README_URL": "https://code.claude.com/docs/en/overview",
+    "VERSION": "2.1.88",
+    "FEEDBACK_CHANNEL": "https://github.com/anthropics/claude-code/issues",
+    "BUILD_TIME": "2026-03-30T21:59:52Z"
+  },
+  "generatedAt": "2026-03-31T14:48:04.524Z"
+}
